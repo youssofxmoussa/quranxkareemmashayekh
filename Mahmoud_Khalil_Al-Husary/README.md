@@ -4,9 +4,9 @@
 |-------|-------|
 | **Reciter** | Mahmoud Khalil Al-Husary |
 | **Category** | Ayah by Ayah |
-| **Tags** | Recitation, Murattal, Hafs, With segments |
-| **QUL ID** | 110 |
-| **Source** | [QUL Page](https://qul.tarteel.ai/resources/recitation/110) |
+| **Tags** | Recitation, Mujawwad, Hafs, With segments |
+| **QUL ID** | 111 |
+| **Source** | [QUL Page](https://qul.tarteel.ai/resources/recitation/111) |
 
 ## About
 
