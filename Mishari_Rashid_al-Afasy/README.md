@@ -3,10 +3,10 @@
 | Field | Value |
 |-------|-------|
 | **Reciter** | Mishari Rashid al-`Afasy |
-| **Category** | Surah by Surah |
-| **Tags** | With segments, Recitation, Murattal, Hafs |
-| **QUL ID** | 411 |
-| **Source** | [QUL Page](https://qul.tarteel.ai/resources/recitation/411) |
+| **Category** | Ayah by Ayah |
+| **Tags** | Recitation, Murattal, Hafs, With segments |
+| **QUL ID** | 118 |
+| **Source** | [QUL Page](https://qul.tarteel.ai/resources/recitation/118) |
 
 ## About
 
