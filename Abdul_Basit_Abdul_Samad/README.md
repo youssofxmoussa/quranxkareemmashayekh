@@ -4,9 +4,9 @@
 |-------|-------|
 | **Reciter** | Abdul Basit Abdul Samad |
 | **Category** | Surah by Surah |
-| **Tags** | With segments, Recitation, Murattal, Hafs |
-| **QUL ID** | 408 |
-| **Source** | [QUL Page](https://qul.tarteel.ai/resources/recitation/408) |
+| **Tags** | Recitation, Mujawwad, Hafs, With segments |
+| **QUL ID** | 406 |
+| **Source** | [QUL Page](https://qul.tarteel.ai/resources/recitation/406) |
 
 ## About
 
