@@ -3,10 +3,10 @@
 | Field | Value |
 |-------|-------|
 | **Reciter** | Abdul Basit Abdul Samad |
-| **Category** | Surah by Surah |
-| **Tags** | Recitation, Mujawwad, Hafs, With segments |
-| **QUL ID** | 406 |
-| **Source** | [QUL Page](https://qul.tarteel.ai/resources/recitation/406) |
+| **Category** | Ayah by Ayah |
+| **Tags** | Recitation, Murattal, Hafs, With segments |
+| **QUL ID** | 115 |
+| **Source** | [QUL Page](https://qul.tarteel.ai/resources/recitation/115) |
 
 ## About
 
